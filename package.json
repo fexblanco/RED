@@ -1,0 +1,18 @@
+{
+  "name": "red-responsive-email-design",
+  "version": "0.0.1",
+  "repository" : {
+    "type": "git",
+    "url" : "https://github.com/fexblanco/RED.git"
+  },
+  "devDependencies": {
+    "assemble": "^0.4.42",
+    "grunt": "~0.4.4",
+    "grunt-contrib-clean": "^0.5.0",
+    "grunt-contrib-imagemin": "^0.9.3",
+    "grunt-contrib-watch": "^0.6.1",
+    "grunt-nodemailer": "^0.2.0",
+    "grunt-premailer": "^0.2.10",
+    "juice": "^0.4.0"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "name": "red responsive email design",
+  "version": "0.0.1",
+  "authors": [
+    "Félix Blanco <contacto@felixblanco.net>"
+  ],
+  "private": true,
+  "devDependencies": {
+    "ink": "*.*"
+  }
+}
